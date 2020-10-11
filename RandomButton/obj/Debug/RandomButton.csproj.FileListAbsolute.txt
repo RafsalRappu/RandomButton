@@ -1,0 +1,10 @@
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\RandomButton\RandomButton\bin\Debug\RandomButton.exe.config
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\RandomButton\RandomButton\bin\Debug\RandomButton.exe
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\RandomButton\RandomButton\bin\Debug\RandomButton.pdb
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\RandomButton\RandomButton\obj\Debug\RandomButton.csprojAssemblyReference.cache
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\RandomButton\RandomButton\obj\Debug\RandomButton.Form1.resources
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\RandomButton\RandomButton\obj\Debug\RandomButton.Properties.Resources.resources
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\RandomButton\RandomButton\obj\Debug\RandomButton.csproj.GenerateResource.cache
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\RandomButton\RandomButton\obj\Debug\RandomButton.csproj.CoreCompileInputs.cache
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\RandomButton\RandomButton\obj\Debug\RandomButton.exe
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\RandomButton\RandomButton\obj\Debug\RandomButton.pdb
